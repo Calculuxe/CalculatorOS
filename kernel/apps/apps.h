@@ -1,0 +1,9 @@
+int main(void);
+void kernel_early(void);
+int settings(void);
+void help(void);
+void devlog(void);
+void bugs(void);
+void help(void);
+void about(void);
+void check_color(void);

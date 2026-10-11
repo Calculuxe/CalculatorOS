@@ -1,0 +1,12 @@
+void error_1(void);
+void error_2(void);
+void error_3(void);
+void error_4(void);
+void error_6(void);
+void error_7(void);
+void error_8(void);
+void error_9(void);
+void error_10(void);
+void error_11(void);
+void confirmation(void);
+void application_err_1(void);
