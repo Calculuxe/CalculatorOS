@@ -1,5 +1,5 @@
 # CalculatorOS
-A fork of [WarblerOS]([url](https://github.com/Calculuxe/WarblerOS)) that is stripped down to the calculator. It also has some unique features that are helpful for calculstors.
+A fork of [WarblerOS]([url](https://github.com/Calculuxe/WarblerOS)) that is stripped down to the calculator. It also has some unique features that are helpful for calculators.
 
 ## What is CalculatorOS?
 CalculatorOS is another little hobby project operating system I have been doing for a few days. I made it because I'm tired of the monopoly that Microsoft has on the OS market even though they are highly unethical.
